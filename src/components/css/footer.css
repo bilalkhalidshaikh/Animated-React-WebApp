@@ -1,0 +1,21 @@
+.foot-color-flex{
+  font-size: 20px;
+  font-weight: 700;
+  text-align: left !important;
+  padding: 10px;
+  color: #eee;
+  background-color: #3a86ff !important;
+}
+.foot-color-flex h6{
+margin-right: 20px
+}
+.credit{
+  font-family: Arial, Helvetica, sans-serif  !important;
+  text-decoration: double;
+  text-transform: capitalize;
+  text-shadow: 20 10 20 10 #333;
+  font-weight: bolder;
+  font-style: normal;
+  color: rgb(255, 255, 255);
+  font-size: 21px;
+}
