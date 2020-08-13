@@ -34,7 +34,7 @@ export default function NavBar() {
         <Toolbar>
           <Typography variant="h6" className={classes.title}>
             {/* <img src={Diamond} className="img" /> */}
-            Diamond WebApp
+            Web Application
           </Typography>
           <Button>Home</Button>
           <Button>About</Button>
