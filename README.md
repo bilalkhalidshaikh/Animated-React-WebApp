@@ -1,2 +1,3 @@
-# Animated React WebApp
-## URL : [http://bootcamp-project05-animated-webapp.surge.sh/]
+# Animated React Website
+
+URL : http://animated-react-web-app.surge.sh/
